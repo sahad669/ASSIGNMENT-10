@@ -1,0 +1,21 @@
+h1{
+    color: black;
+    font-weight: bold;
+}
+h1:hover{
+    color: white;
+}
+.productlist{
+    color: black;
+    font-weight: bold;
+   
+}
+.productlist:hover{
+    color: white;
+}
+#root{
+    background-color: #f1f5f9
+}
+
+
+
