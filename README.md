@@ -1,12 +1,31 @@
-# React + Vite
+## 🛒 Fake Store React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple e-commerce product listing app built with **React (Vite)** using a local **JSON-based Fake Store API**, featuring category filtering, routing, and styled with **Tailwind CSS**.
 
-Currently, two official plugins are available:
+## 🔗 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Visit the site](https://singular-palmier-757830.netlify.app)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Features
+
+- 🧾 Product List from a fake API (local JSON file)
+- 🔍 Category Filter (All, Men's Clothing, Jewelry, Electronics, Women's Clothing)
+- 📱 Responsive Layout with Tailwind CSS
+- 🧭 Navbar and basic routing (React Router)
+
+---
+
+## 🛠️ Tech Stack
+
+- **React (Vite)**
+- **Tailwind CSS**
+- **React Router DOM**
+- **Axios**
+- **Netlify** (for hosting)
+
+---
+
+## 📂 Project Structure
+
